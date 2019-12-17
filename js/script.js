@@ -13,10 +13,10 @@ console.log(cognomeUtente);
 var colorePreferito = prompt("Qual è il tuo colore preferito?");
 console.log(colorePreferito);
 
-var pswGenerator = "Mario" + "Fenucci" + "rosso";
+var pswGenerator = "Mario" + "Fenucci" + "rosso" + "19";
 console.log(pswGenerator);
 
 document.getElementById('password').innerHTML = pswGenerator;
 // document.getElementById('cognome-utente').innerHTML = cognomeUtente;
 // document.getElementById('colore-preferito').innerHTML = colorePreferito;
-document.getElementById('anno').innerHTML = "19";
+// document.getElementById('anno').innerHTML = "19";

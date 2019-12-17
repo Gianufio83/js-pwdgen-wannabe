@@ -27,15 +27,14 @@ h2 {
   width: 20%;
   /* background-color: red; */
 }
-#nome-utente {
+#password {
   margin: 0;
   padding: 0;
   font-size: 14px;
   font-weight: bold;
   color: red;
-
 }
-#cognome-utente {
+/* #cognome-utente {
   margin: 0;
   padding: 0;
   font-size: 14px;
@@ -48,7 +47,7 @@ h2 {
   font-size: 14px;
   font-weight: bold;
   color:red;
-}
+} */
 #anno {
   color:red;
 }

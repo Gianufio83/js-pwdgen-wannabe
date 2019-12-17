@@ -2,18 +2,18 @@
 // var nome = "Mario";
 // console.log("nome");
 
-// // il tuo nome
-// var nomeUtente = prompt("Qual è il tuo nome?");
-// console.log(nomeUtente);
-// // nome = nomeUtente;
-// // iltuo cognome
-// var cognomeUtente = prompt("Qual è il tuo cognome?")
-// console.log(cognomeUtente);
-// // il tuo colore preferito
-// var colorePreferito = prompt("Qual è il tuo colore preferito?");
-// console.log(colorePreferito);
+// il tuo nome
+var nomeUtente = prompt("Qual è il tuo nome?");
+console.log(nomeUtente);
+// nome = nomeUtente;
+// iltuo cognome
+var cognomeUtente = prompt("Qual è il tuo cognome?")
+console.log(cognomeUtente);
+// il tuo colore preferito
+var colorePreferito = prompt("Qual è il tuo colore preferito?");
+console.log(colorePreferito);
 
-var pswGenerator = prompt("Scrivi Nome Cognone e colore preferito senza spazio");
+var pswGenerator = "Mario" + "Fenucci" + "rosso";
 console.log(pswGenerator);
 
 document.getElementById('password').innerHTML = pswGenerator;

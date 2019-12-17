@@ -13,9 +13,13 @@ body {
 
 h1 {
   color: orange;
+  border: 1px solid yellow;
+  width: 20%;
 }
 h2 {
   color:orange;
+  border: 1px solid yellow;
+  width: 20%;
 }
 .container-psw {
   margin: 10px;
